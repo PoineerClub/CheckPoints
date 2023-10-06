@@ -5,4 +5,4 @@ This repo contains some challenges to validate and check our knowledge in some t
 
 ## List of challenges
 
-[C0](day0/checkpoint.md)] 
+[CheckPoint-C0](day0/checkpoint.md) 
