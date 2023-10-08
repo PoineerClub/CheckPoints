@@ -4,15 +4,6 @@ To just verify that you have learnt something from the previous session, we have
 
 ### Problem Statement
 
-- Create a github account if you don't have one.
-- Go to the organization page and (https://github.com/PoineerClub)
-- Fork the repository (git_learning) to your account.
+#### Make a sily contirbution to the repository.`Never ever again make slily contributions to any repository in your life`
 
-- Clone the repository to your local machine.
-- Create a new branch called `{youname/0}` and switch to that branch.
-- write a program to print your name and your name in any programming language.
-
-- Add the changes to the staging area.
-- Commit the changes with a meaningful message.
-- Push the changes to the remote repository.
-- Create a pull request to the main branch of the repository.
+Write a program to print your name and make a pull request to this repository (https://github.com/PoineerClub/git_learning).
